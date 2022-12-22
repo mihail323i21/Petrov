@@ -1,4 +1,4 @@
-from Testing import Translator, Salary, Vacancy, UserInterface
+from Separate_data import Translator, Salary, Vacancy, UserInterface
 from unittest import TestCase
 
 
