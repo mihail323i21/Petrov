@@ -42,4 +42,4 @@
 # df.to_sql(name="new_vac_with_dif_currencies", con=connect, if_exists='replace', index=False)
 # connect.commit()
 #
-# print("Овинкин Кирилл Михайлович")
+# print("Петров Михаил Дмитриевич")
